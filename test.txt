@@ -1,2 +1,4 @@
 这是git-learning中的一个文件
 这是添加的内容。
+
+修改一下这个文件，然后add+commit+push尝试revert。
